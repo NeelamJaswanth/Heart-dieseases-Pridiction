@@ -12,3 +12,7 @@ There are 14 columns in the dataset, where the patient_id column is a unique and
 •	age (type: int): age in years
 •	max_heart_rate_achieved (type: int): maximum heart rate achieved (beats per minute)
 •	exercise_induced_angina (type: binary): exercise-induced chest pain (0: False, 1: True)
+
+Dataset Link : https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-
+1016-HeartDieseasePred.zip
+
